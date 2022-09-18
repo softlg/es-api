@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+# 关闭 thymeleaf
+spring:
+  thymeleaf:
+    cache: false
